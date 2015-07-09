@@ -1,0 +1,28 @@
+h1 {
+	color: red;
+	text-align: center;
+}
+
+body {
+	background-color: yellow;
+	font-family: verdana;
+}
+
+p {
+	text-align: center;
+}
+
+#wrapper {
+	width:900px;
+	margin:0 auto;
+}
+
+ul {
+	list-style-type: square
+	text-align: left;
+}
+
+a:link    {color:blue; background-color:transparent; text-decoration:none}
+a:visited {color:blue; background-color:transparent; text-decoration:none}
+a:hover   {color:red; background-color:transparent; text-decoration:underline}
+a:active  {color:black; background-color:transparent; text-decoration:underline}
